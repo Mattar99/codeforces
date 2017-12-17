@@ -16,7 +16,7 @@ public class BoyOrGirl236A {
          else
              System.out.println("IGNORE HIM!");
 
-         
+
 
     }
 }
